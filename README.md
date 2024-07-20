@@ -1,6 +1,6 @@
 - 👋 Hi, welcome to my GitHub profile. I’m Thilina Jayasinghe
 
-- 🌱 I’m currently pursuing a Software Engineering degree at a university, which is solidifying my understanding of core programming concepts like algorithms, data structures, and software design principles. This program is helping me become a well-rounded developer.
+- 🌱 I’m currently pursuing a Software Engineering degre which is solidifying my understanding of core programming concepts like algorithms, data structures, and software design principles. This program is helping me become a well-rounded developer.
 
 - 👀 I’m interested in:
  
